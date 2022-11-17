@@ -5,6 +5,7 @@ const config = {
       user: "root",
       password: "",
       database: "stock_market_management",
+      multipleStatements: true,
     },
     listPerPage: 10,
   };

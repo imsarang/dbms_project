@@ -1,0 +1,26 @@
+.login{
+    padding:2%;
+    box-shadow:4px 4px 5px rgb(223, 218, 218),
+    -4px -4px 5px rgb(223, 218, 218);
+    width:30%;
+    position: absolute;
+    left:35%;
+    font-family: 'Oswald';
+}
+.login-h1{
+    text-align: center;
+}
+.login-input-tag{
+    width:90%;
+    padding:2%;
+    margin:2% 0;
+}
+.login-btn{
+    width:95%;
+    padding:2%;
+    margin:5% 0;
+    background-color: aquamarine;
+    border:none;
+    font-size:20px;
+    font-family: 'Oswald';
+}

@@ -18,10 +18,10 @@ const Navbar = () => {
         <Link to='/' className='link-navbar-item'>Trade</Link>
         </div>
         <div className='nav-item'>
-        <Link to='/' className='link-navbar-item'>Create</Link>
+        <Link to='/create' className='link-navbar-item'>Create</Link>
         </div>
         <div className='nav-item'>
-        <Link to='/' className='link-navbar-item'>Register</Link>
+        <Link to='/' className='link-navbar-item'>Sign Up</Link>
         </div>
         <div className='nav-item-profile' onClick={()=>setDropdown(!dropdown)}>
           <FaUserAlt/>
